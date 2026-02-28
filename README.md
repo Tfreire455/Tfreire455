@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <h1>
@@ -769,4 +768,3 @@
     to{ opacity: 1; transform: translateY(0); }
   }
 </style>
-```
