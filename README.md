@@ -1,97 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:1F6FEB&height=300&section=header&text=Thiago%20Moabi&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=&descSize=1&stroke=1F6FEB&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:101827,100:1F6FEB&height=220&section=header&text=&fontSize=1&animation=twinkling&stroke=1F6FEB&strokeWidth=1" width="100%"/>
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Engenheiro+de+Software+%7C+IA+%26+Automa%C3%A7%C3%B5es;Construindo+sistemas+que+funcionam+sozinhos+%F0%9F%A4%96;Full-Stack+%7C+LLMs+%7C+Bots+%7C+SaaS" alt="Typing SVG" /></a>
+# Hey, eu sou o Thiago Moabi 👋
 
-<br><br>
-
-[![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO_TM_DEV-000000?style=for-the-badge&logoColor=white)](https://tmdev-one.vercel.app)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagomoabi)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tfreire455)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=1F6FEB&center=true&vCenter=true&repeat=true&random=false&width=620&height=45&lines=%E2%9A%A1+Engenheiro+de+Software+%26+Arquiteto+de+Automa%C3%A7%C3%B5es;%F0%9F%A4%96+IA+%7C+LLMs+%7C+Bots+%7C+Prompt+Engineering;%F0%9F%9A%80+Construindo+sistemas+que+funcionam+sozinhos" alt="Typing SVG" /></a>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+[![Portfólio](https://custom-icon-badges.demolab.com/badge/PORTFÓLIO_TM_DEV-0D1117?style=for-the-badge&logoColor=1F6FEB&logo=globe)](https://tmdev-one.vercel.app)
+&nbsp;
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/thiagomoabi)
+&nbsp;
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tfreire455)
 
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Quem sou eu
-
 ```typescript
-const thiagoMoabi = {
-    marca: "TM Dev — Sistemas completos, IA's e automações",
-    stack: ["Next.js", "React", "TypeScript", "Node.js", "Python"],
-    dados: ["Supabase", "PostgreSQL", "Google Sheets API"],
-    ia:    ["OpenAI GPT", "LangChain", "Prompt Engineering", "RAG"],
-    bots:  ["WhatsApp (Baileys)", "Telegram", "Discord"],
-    infra: ["Vercel", "Docker", "GitHub Actions", "VPS Linux"],
-    foco:  "Transformar operações manuais em motores autônomos com IA"
-};
+class ThiagoMoabi {
+    readonly nome      = "Thiago Moabi";
+    readonly marca     = "TM Dev — Sistemas completos, IA's e automações";
+    readonly portfolio = "https://tmdev-one.vercel.app";
+
+    readonly stack = {
+        frontend:  ["Next.js", "React", "TypeScript", "Tailwind CSS", "GSAP"],
+        backend:   ["Node.js", "Python", "Express", "Socket.IO"],
+        dados:     ["PostgreSQL", "Supabase", "Google Sheets API"],
+        ia:        ["OpenAI GPT-4", "Prompt Engineering", "LangChain", "RAG"],
+        bots:      ["WhatsApp (Baileys)", "Telegram Bots", "Discord.js"],
+        infra:     ["Vercel", "Docker", "GitHub Actions", "VPS Linux"],
+    };
+
+    readonly foco = "Transformar operações manuais em motores autônomos com IA";
+}
 ```
 
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
+## 🛠️ Stack Tecnológica
 
 <br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Stack Tecnológica
-
-<br>
-
-<div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-<h3>🎨 Front-end</h3>
+### Front-end
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&perline=2" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&perline=2&theme=dark" />
 
-<br><br>
+<br>
 
-`Next.js` `React` `TypeScript` `Tailwind`
-`GSAP` `Framer Motion`
+`GSAP` · `Framer Motion`
+
+</td>
+<td align="center" width="34%">
+
+### Back-end & IA
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,postgres&perline=2&theme=dark" />
+
+<br>
+
+`OpenAI` · `WebSockets`
 
 </td>
 <td align="center" width="33%">
 
-<h3>⚙️ Back-end</h3>
+### Infra & Deploy
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,express,postgres&perline=2" />
-
-<br><br>
-
-`Node.js` `Python` `Express` `PostgreSQL`
-`REST APIs` `WebSockets`
-
-</td>
-<td align="center" width="33%">
-
-<h3>☁️ Infra & Deploy</h3>
+<img src="https://skillicons.dev/icons?i=vercel,docker,github,supabase&perline=2&theme=dark" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=vercel,docker,github,supabase&perline=2" />
-
-<br><br>
-
-`Vercel` `Docker` `GitHub Actions`
-`Supabase` `VPS Linux`
+`CI/CD` · `VPS Linux`
 
 </td>
 </tr>
@@ -102,140 +96,119 @@ const thiagoMoabi = {
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧠 IA, LLMs & Automação
+
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Experiência com IA, LLMs & Automação
-
-<br>
-
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<br><br>
-<b>LLMs & GPT</b>
-<br><br>
-<sub>Integração com API da OpenAI para geração de copy dinâmica, análise de dados e atendimento inteligente em tempo real.</sub>
-<br><br>
+<td width="50%">
+
+### 🤖 Bots & Automações
+
+Desenvolvo **motores autônomos de vendas** que operam 24/7 em grupos de WhatsApp via Baileys — com agendamento de campanhas, envio inteligente de mídia, delays humanizados e sistema anti-spam por banco.
+
+**Pipeline completo:** Google Sheets → PostgreSQL → IA gera copy → Bot envia → Dashboard monitora em tempo real.
+
 </td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/🤖_Bots-000000?style=for-the-badge" />
-<br><br>
-<b>WhatsApp Bots</b>
-<br><br>
-<sub>Motor autônomo de vendas via Baileys — agendamento, envio de mídia, anti-spam, delays humanizados e operação 24/7.</sub>
-<br><br>
+<td width="50%">
+
+### 💬 LLMs & Prompt Engineering
+
+Integração com a **API da OpenAI** para geração dinâmica de copywriting por produto — a IA recebe nome, preço, coleção e estoque e produz legendas únicas com gatilhos de escassez, urgência e desejo.
+
+**3 modos estratégicos:** Normal (elegante), Blitz (urgência) e Coleção (storytelling) — cada um com personalidade de IA configurável via dashboard.
+
 </td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/⚡_Automação-161B22?style=for-the-badge" />
-<br><br>
-<b>Automação SaaS</b>
-<br><br>
-<sub>Pipelines que leem planilhas, geram copy com IA, enviam campanhas e capturam leads — tudo sem intervenção humana.</sub>
-<br><br>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Automação SaaS
+
+Sistemas que leem planilhas, sincronizam banco de dados, geram conteúdo com IA e disparam campanhas **sem intervenção humana**. Inclui CRM integrado com captura de leads, aniversariantes VIP e cupons automáticos.
+
 </td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/🧠_Prompt_Eng-1F6FEB?style=for-the-badge" />
-<br><br>
-<b>Prompt Engineering</b>
-<br><br>
-<sub>Design de prompts com controle de tom, contexto de produto e gatilhos de conversão — escassez, urgência, desejo.</sub>
-<br><br>
+<td width="50%">
+
+### 🔧 Engenharia de Resiliência
+
+Arquiteturas tolerantes a falhas: retry automático, fallback em cascata para imagens (Google Drive → CDN), tokens canceláveis para loops contínuos e prevenção de memory leak em execução de meses.
+
 </td>
 </tr>
 </table>
 
 <br>
 
-> **Caso real:** No projeto **Soline Sales OS**, a IA analisa nome, preço, coleção e estoque de cada produto
-> e gera legendas únicas com gatilhos de venda — em 3 modos estratégicos diferentes — totalmente automatizado.
+<div align="center">
+
+> 💡 **Caso real — Soline Sales OS:** A IA analisa cada produto do estoque e gera legendas de venda únicas,
+> o bot envia automaticamente nos horários programados, e o dashboard monitora tudo via Socket.IO em tempo real.
+> **Zero esforço manual.**
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br>
 
 ## 💎 Projetos em Destaque
 
 <br>
 
-<div align="center">
-
 <a href="https://github.com/Tfreire455/soline-catalogo-cta">
-  <img src="https://public-blob.squarecloud.dev/debaaca7c5f07c7e98c40e46e94d16eae5b402a7/imagem/catalogosoline.png" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tfreire455&repo=soline-catalogo-cta&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=F8D866&text_color=C9D1D9" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Tfreire455/bot-vendas-soline">
-  <img src="https://public-blob.squarecloud.dev/debaaca7c5f07c7e98c40e46e94d16eae5b402a7/imagem/soline_os.webp" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tfreire455&repo=bot-vendas-soline&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=F8D866&text_color=C9D1D9" />
 </a>
 
-<br><br>
+<br>
 
-| Projeto | Stack | Descrição |
-|:--------|:------|:----------|
-| **Soline Catálogo Digital** | React · Tailwind · GSAP · Sheets API | SPA de alta performance — vitrine interativa com Headless CMS |
-| **Soline Sales OS** | Node.js · Baileys · OpenAI · PostgreSQL | Motor autônomo de vendas B2B para WhatsApp com IA integrada |
+| | Projeto | Stack | O que faz |
+|:---:|:--------|:------|:----------|
+| 🛍️ | **Catálogo Digital Soline** | React · Tailwind · GSAP · Sheets API | SPA de alta performance — vitrine interativa com Google Sheets como Headless CMS |
+| 🤖 | **Soline Sales OS** | Node.js · Baileys · OpenAI · PostgreSQL | Motor autônomo de vendas B2B para WhatsApp com IA e dashboard real-time |
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
+## 📊 GitHub Stats
 
 <br>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Stats
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tfreire455&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=F8D866&text_color=C9D1D9&count_private=true&ring_color=1F6FEB" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfreire455&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tfreire455&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=F8D866&text_color=C9D1D9&count_private=true&ring_color=1F6FEB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfreire455&layout=compact&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9&langs_count=8" />
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tfreire455&theme=radical&hide_border=true&background=0D1117&ring=1F6FEB&fire=F8D866&currStreakLabel=1F6FEB&sideLabels=C9D1D9&dates=666666)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Tfreire455&hide_border=true&background=0D1117&ring=1F6FEB&fire=F8D866&currStreakLabel=1F6FEB&sideLabels=C9D1D9&dates=666666&stroke=1F6FEB20" width="52%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tfreire455&bg_color=0D1117&color=1F6FEB&line=F8D866&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tfreire455&bg_color=0D1117&color=1F6FEB&line=F8D866&point=FFFFFF&area=true&area_color=1F6FEB15&hide_border=true&custom_title=Contribuições" width="97%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tfreire455&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tfreire455&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="97%" />
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
+## 🐍 Contribuições
 
 <br>
-
-## 🐍 Gráfico de Contribuições
-
-<br>
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tfreire455/Tfreire455/blob/output/github-snake-dark.svg" />
@@ -253,7 +226,7 @@ const thiagoMoabi = {
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=2000&color=666666&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%91%8B;Vamos+construir+algo+juntos%3F+%F0%9F%9A%80" alt="Footer typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=2000&color=555555&center=true&vCenter=true&repeat=true&width=460&height=24&lines=Obrigado+por+visitar+meu+perfil.+Vamos+construir+algo%3F+%F0%9F%9A%80" alt="Footer" /></a>
 
 <br>
 
@@ -263,10 +236,10 @@ const thiagoMoabi = {
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Tfreire455&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Tfreire455&style=for-the-badge&color=1F6FEB&label=VIEWS" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:1F6FEB&height=150&section=footer&stroke=1F6FEB&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:101827,100:1F6FEB&height=120&section=footer&stroke=1F6FEB&strokeWidth=1" width="100%"/>
 
 </div>
