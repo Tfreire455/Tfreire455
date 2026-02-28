@@ -315,3 +315,80 @@
         <div class="dot y"></div>
         <div class="dot g"></div>
       </div>
+      <p class="comment">// TM Dev System Initialized</p>
+      <p><span class="key">const</span> mission = "Turn manual operations into autonomous AI-powered engines";</p>
+      <br>
+      <p class="comment">/* Core Architecture */</p>
+      <p><span class="key">sys.Frontend</span> = ["Next.js", "React", "TypeScript", "Tailwind", "GSAP"];</p>
+      <p><span class="key">sys.Backend</span>  = ["Node.js", "Python", "Express", "Socket.IO"];</p>
+      <p><span class="key">sys.AI</span>       = ["OpenAI", "Prompt Engineering", "LangChain", "RAG"];</p>
+      <p><span class="key">sys.status</span>   = "Online 🟢";</p>
+    </div>
+
+    <div class="tech-stack">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    </div>
+
+    <h3 class="section-title">SYSTEM_CAPABILITIES</h3>
+    <div class="grid">
+      <div class="card">
+        <h3>Autonomous Bots</h3>
+        <ul>
+          <li>Sales engine running 24/7 on WhatsApp via Baileys</li>
+          <li>Campaign scheduling with humanized delays</li>
+          <li>Anti-spam flags + history stored in PostgreSQL</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>LLMs & Engineering</h3>
+        <ul>
+          <li>Dynamic per-product copywriting via OpenAI</li>
+          <li>Scarcity/urgency/desire triggers mapping</li>
+          <li>Configurable AI personality via admin dashboard</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>SaaS Resilience</h3>
+        <ul>
+          <li>End-to-end zero manual work pipelines</li>
+          <li>Automatic retry with exponential backoff</li>
+          <li>Memory-leak prevention & stability-first architecture</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3 class="section-title">FEATURED_REPOSITORIES</h3>
+    <div class="grid" style="grid-template-columns: 1fr 1fr;">
+      <a href="https://github.com/Tfreire455/soline-catalogo-cta" target="_blank" style="text-decoration: none;">
+        <div class="card" style="padding: 0; border: none; background: transparent;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tfreire455&repo=soline-catalogo-cta&theme=tokyonight&border_color=30363D" style="width: 100%; border-radius: 12px;" />
+        </div>
+      </a>
+      <a href="https://github.com/Tfreire455/bot-vendas-soline" target="_blank" style="text-decoration: none;">
+        <div class="card" style="padding: 0; border: none; background: transparent;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tfreire455&repo=bot-vendas-soline&theme=tokyonight&border_color=30363D" style="width: 100%; border-radius: 12px;" />
+        </div>
+      </a>
+    </div>
+
+    <h3 class="section-title">LIVE_TELEMETRY</h3>
+    <div class="stats-container">
+      <img src="https://github-readme-stats.vercel.app/api?username=Tfreire455&show_icons=true&theme=tokyonight&border_color=30363D&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+      
+      <picture style="width: 100%; display: flex; justify-content: center;">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tfreire455/Tfreire455/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tfreire455/Tfreire455/output/github-contribution-grid-snake.svg">
+        <img alt="Snake Game" src="https://raw.githubusercontent.com/Tfreire455/Tfreire455/output/github-contribution-grid-snake.svg" style="max-width: 100%; filter: drop-shadow(0 0 10px rgba(16, 185, 129, 0.3));">
+      </picture>
+    </div>
+
+  </div>
+
+</body>
+</html>
