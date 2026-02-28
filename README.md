@@ -180,7 +180,7 @@ const thiagoMoabi = {
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Tfreire455/bot-vendas-soline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tfreire455&repo=bot-vendas-soline&theme=radical&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=F8D866&text_color=C9D1D9" />
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Tfreire455&repo=bot-vendas-soline&theme=radical&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=F8D866&text_color=C9D1D9](https://public-blob.squarecloud.dev/debaaca7c5f07c7e98c40e46e94d16eae5b402a7/imagem/soline_os.webp)" />
 </a>
 
 <br><br>
