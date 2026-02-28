@@ -1,0 +1,48 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# 🐍 Snake Game — Gera a animação da cobrinha a partir dos commits do GitHub
+# ──────────────────────────────────────────────────────────────────────────────
+# Este workflow:
+#   1. Lê o gráfico de contribuições do utilizador
+#   2. Gera SVGs animados (dark + light mode) com Platane/snk
+#   3. Faz deploy dos SVGs para a branch 'output'
+#
+# O README.md consome os SVGs dessa branch via <picture>/<source>.
+# ──────────────────────────────────────────────────────────────────────────────
+
+name: Generate Snake Animation
+
+on:
+  # Executa automaticamente à meia-noite UTC todos os dias
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permite execução manual via GitHub UI (Actions → Run workflow)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      # ── 1. Gera os SVGs da cobrinha ──────────────────────────────────────
+      - name: 🐍 Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # ── 2. Faz deploy dos SVGs para a branch 'output' ───────────────────
+      - name: 🚀 Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update snake animation SVGs"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
